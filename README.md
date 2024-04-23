@@ -1,4 +1,3 @@
-# Ecommerce-Analysis-Mobile-App-vs.-Website
 
 # Ecommerce Company Analysis: Mobile App vs. Website
 
