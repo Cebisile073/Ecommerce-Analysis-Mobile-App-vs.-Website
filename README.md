@@ -30,9 +30,23 @@ The dataset used for this analysis includes information on customer interactions
 To run the analysis:
 
 1. Clone this repository:
-
    git clone https://github.com/your-username/ecommerce-analysis.git
 
  
 2. Install the required dependencies:
+   pip install -r requirements.txt
+
+
+3. Run the main script:
+   python ecommerce_analysis.py
+
+
+## Results
+
+The analysis will provide insights into customer behavior and recommendations on whether to focus on improving the mobile app or website experience.
+
+## Contributing
+
+Contributions are welcome! If you find any issues or have suggestions for improvements, please feel free to open an issue or submit a pull request.
+
 
