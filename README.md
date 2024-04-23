@@ -30,3 +30,9 @@ The dataset used for this analysis includes information on customer interactions
 To run the analysis:
 
 1. Clone this repository:
+
+   git clone https://github.com/your-username/ecommerce-analysis.git
+
+ 
+2. Install the required dependencies:
+
